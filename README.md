@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mahabubur Rahman</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611096590d2bc745d04f83f7ed8c0c9369f2b5a8e0a&rid=giphy.gif&ct=g"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahabubr&label=Profile%20views&color=0e75b6&style=flat" alt="mahabubr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mahabub_level" target="blank"><img src="https://img.shields.io/twitter/follow/mahabub_level?logo=twitter&style=for-the-badge" alt="mahabub_level" /></a> </p>
