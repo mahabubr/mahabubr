@@ -75,7 +75,7 @@ I'm all about creative problem-solving and adaptability. Challenges? Bring 'em o
 
 <div >
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahabubr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=21" alt="stats graph"  />
-    <img src="https://github-profile-trophy.vercel.app?username=mahabubr&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" alt="streak graph" style="width: calc(50% - 5px); margin-left: 10px;" />
+    <img src="https://github-profile-trophy.vercel.app?username=mahabubr&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" alt="streak graph" />
   </div>
 
 </section>
