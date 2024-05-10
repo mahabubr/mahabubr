@@ -92,19 +92,22 @@ I'm all about creative problem-solving and adaptability. Challenges? Bring 'em o
 </section>
 
 <section>
-
- <h2>Codeforces</h2>
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mahabubr&theme=ocean_dark&disable_animations=false&show_icons=true&force_username=false)
-
-</section>
-
-<section>
     <h2>Top Contributed Repository</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=mahabubr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </section>
+
+<section>
+
+ <h2>Codeforces & Leetcode</h2>
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mahabubr&theme=ocean_dark&disable_animations=false&show_icons=true&force_username=false)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mahabubr?theme=dark&font=Shanti&ext=heatmap)
+
+</section>
+
 
 <section>
     <h2>Random Dev Quote</h2>
