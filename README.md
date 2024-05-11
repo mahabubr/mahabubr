@@ -92,9 +92,10 @@ I'm all about creative problem-solving and adaptability. Challenges? Bring 'em o
 </section>
 
 <section>
-    <h2>Top Contributed Repository</h2>
+<h2>Top Contributed Repository</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=mahabubr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 </section>
 
